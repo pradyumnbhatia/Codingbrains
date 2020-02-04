@@ -273,20 +273,24 @@ footer {
   padding-top: 60px;
   padding-bottom: 30px;
   color: #5f5d60;
+  text-align: center;
 
 }
 
 .heading h2 {
   font-weight: normal;
+  text-align: center;
 }
 
 .lesson {
   float: left;
   width: 25%;
+  text-align: center;
 }
 
 .lesson-icon {
   position: relative;
+  text-align: center;
 }
 
 .lesson-icon p {
@@ -294,6 +298,7 @@ footer {
   top: 180px;
   width: 100%;
   color: white;
+  text-align:center;
 }
 .txt-contents {
   width: 80%;
@@ -301,53 +306,10 @@ footer {
   margin-top: 20px;
   font-size: 15px;
   color: #b3aeb5;
-  background-color: 
+  background-color: yellow ;
+  text-align: center;
 }
-.middle-wrapper2{
-  padding-top:50px;
-  padding-left:200px;
-  padding-right:200px;
-  margin-top:100px;
-  text-align:center;
-  padding-bottom:50px;
-  color:white;
-  font-family: Cambria;
-  background-color: rgb(153,50,204);
 
-  }
-.middle-wrapper4{
-  margin-left:100px;
-  margin-right:100px;
-  padding-top:50px;
-  padding-left:200px;
-  padding-right:200px;
-  margin-top:100px;
-  text-align:left;
-  padding-bottom:50px;
-  color:black;
-  font-family: Cambria;
-  background-color: rgb(0,128,128);
-  }
-
-
-.middle-wrapper5{
-  margin-left:100px;
-  margin-right:100px;
-  padding-top:50px;
-  padding-left:200px;
-  padding-right:200px;
-  margin-top:100px;
-  text-align:right;
-  padding-bottom:50px;
-  color:black;
-  font-family: Cambria;
-  background-color: rgb(0,0,255);
-  }
-
-.bottom-wrapper{
-  text-align:center;
-
-}
 
 .footer {
   background-color: #2f5167;
